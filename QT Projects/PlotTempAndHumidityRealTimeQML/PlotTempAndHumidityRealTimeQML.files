@@ -1,0 +1,6 @@
+.gitignore
+CMakeLists.txt
+Main.qml
+main.cpp
+serialmanager.cpp
+serialmanager.h
